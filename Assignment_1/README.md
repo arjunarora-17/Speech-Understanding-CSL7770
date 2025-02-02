@@ -1,7 +1,7 @@
 # Assignment 1: Speech Understanding
 ## Topic: Experimenting with Spectrograms and Windowing Techniques
 
-In this project, we used the UrbanSound8K dataset to explore different windowing techniques for generating spectrograms. We compared various techniques and implemented a simple CNN classifier for the task. Additionally, analysis was conducted on custom audio files from different genres to understand differences in their spectrograms.
+In this project, we used the UrbanSound8K dataset to explore different windowing techniques for generating spectrograms. We compared various techniques and implemented a simple CNN classifier for the task. Additionally, analysis was conducted on custom audio files from different genres to understand differences in their spectrograms. The detailed explanation is given in the report and the jupyter notebook is also provided for the same.
 
 ## References
 1. PyTorch Documentation, 2024. Available: [https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html)
